@@ -5,7 +5,7 @@ varied-scale synthetic datasets.
 
 **Data Mining Algorithm Used**: Apriori & FP-Growth
 
-**Steps**
+**Steps**  
 < Dataser Preparation>
 1. Use a data generator to generate synthetic datasets (via C++). Link: https://github.com/zakimjz/IBMGenerator
 2. Generate the following datasets for use later (Three configurations):
