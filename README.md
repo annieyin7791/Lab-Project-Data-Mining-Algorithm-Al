@@ -18,5 +18,5 @@ Mining the datasets generated in Step above using Apriori algorithm
 2. Task 1: Mining all Frequent Itemset
 3. Task 2: Mining all Frequent Closed Itemset
 
-< FP-Growth Improvement>
-Conducting the mining task (only Task 1) in Step II using a non-Apriori algorithm with the goal to get performance (on efficiency) improvements as higher as possible
+< FP-Growth Improvement>  
+Conducting the mining task (only Task 1) in Step II using a non-Apriori algorithm with the goal to get performance (on efficiency) improvements as higher as possible.
